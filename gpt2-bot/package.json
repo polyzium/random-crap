@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "discord.js": "v11",
+    "python-shell": "^2.0.1"
+  }
+}
